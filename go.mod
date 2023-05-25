@@ -1,3 +1,3 @@
-module github.com/hexahigh/go-socks5
+module github.com/hexahigh/go-socks52
 
 go 2.0
